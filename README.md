@@ -17,3 +17,12 @@ It provides real-time weather, 5-day forecasts, hourly charts, air quality, UV i
             ✅ Dark Mode Toggle – Seamless light/dark theme
             ✅ Persistent Data – LocalStorage saves favorites and theme
 
+🛠️ Tech Stack
+
+Frontend: React (Vite) + Tailwind CSS
+
+Charts: Recharts / Chart.js
+
+Maps: React-Leaflet
+
+API: OpenWeatherMap API (Weather, Forecast, Air Quality, UV)
