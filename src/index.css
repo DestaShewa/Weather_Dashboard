@@ -1,0 +1,17 @@
+/* Leaflet default css import */
+@import "leaflet/dist/leaflet.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* A little global default */
+body {
+  @apply bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 transition-colors duration-300;
+}
+/* A little global default */
+html,
+body,
+#root {
+  height: 100%;
+}
