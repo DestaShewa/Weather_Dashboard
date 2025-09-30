@@ -59,4 +59,7 @@ This project is licensed under the MIT License – you’re free to use and modi
 
 GitHub: @DestaShewa
 
-LinkedIn: Your LinkedIn
+LinkedIn: Your LinkedIn   
+
+live Demo
+The link in vercel  https://weather-dashboard-7k1gt73bu-destas-projects-8fefdebe.vercel.app/
