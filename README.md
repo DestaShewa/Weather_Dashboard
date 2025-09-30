@@ -26,3 +26,37 @@ Charts: Recharts / Chart.js
 Maps: React-Leaflet
 
 API: OpenWeatherMap API (Weather, Forecast, Air Quality, UV)
+
+⚡ Getting Started
+1️⃣ Clone the Repo
+
+git clone https://github.com/your-username/weather-dashboard.git
+cd weather-dashboard
+
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Run the Dev Server
+npm run dev
+
+4️⃣ Build for Production
+npm run build
+
+🌍 Deployment
+
+🧑‍💻 Contribution
+
+Pull requests are welcome! Please fork the repo and create a PR.
+For major changes, open an issue first to discuss what you’d like to improve.
+
+📜 License
+
+This project is licensed under the MIT License – you’re free to use and modify it.
+
+✨ Author
+
+👤 Desta Shewa
+
+GitHub: @DestaShewa
+
+LinkedIn: Your LinkedIn
