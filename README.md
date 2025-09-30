@@ -6,9 +6,9 @@ It provides real-time weather, 5-day forecasts, hourly charts, air quality, UV i
 
 🚀 Features
 
-✅ Real-Time Weather – Get current weather by city or your current location.
-✅ 5-Day Forecast – Detailed future weather predictions
-✅ Hourly Forecast with Charts – Temperature, rain probability, and wind trends
+            ✅ Real-Time Weather – Get current weather by city or your current location.
+            ✅ 5-Day Forecast – Detailed future weather predictions
+            ✅ Hourly Forecast with Charts – Temperature, rain probability, and wind trends
 ✅ Weather Recommendations – Smart tips like “Take an umbrella ☔”
 ✅ Air Quality & UV Index – Health-aware suggestions
 ✅ Multi-City Favorites – Save cities for quick switching
